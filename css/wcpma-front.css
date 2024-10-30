@@ -1,0 +1,13 @@
+#wcpma_single_pro_membership_msg{
+	padding: 10px;
+    background: #93cff3;
+    font-weight: bold;
+    border: 1px solid #1391da;
+}
+
+.wcpma_info_message{
+	background: #a9cdff none repeat scroll 0 0;
+    border: 1px solid #72b5fb;
+    margin: 10px 0;
+    padding: 10px;
+}

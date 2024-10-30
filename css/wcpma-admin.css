@@ -1,0 +1,13 @@
+.wcpma-select2-setting{
+    width: 80%;
+}
+
+.wcpma-select2-setting,.wcpma_select2-container{
+    width: 50% !important;
+    
+}
+
+.wcpma-select2-full-setting .wcpma_select2-container{
+    width: 100% !important;
+    
+}
